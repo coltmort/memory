@@ -1,0 +1,26 @@
+
+main{
+    width: 100%;
+    display: flex;
+
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 2;
+    max-width: 100vmin;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: cadetblue;
+    flex-basis: 15%;
+    aspect-ratio: 1/1;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 7%;
+    box-shadow: 1px 1.5px 4px 0 black;
+
+}
+
