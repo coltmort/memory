@@ -21,6 +21,11 @@ main{
     margin: 2%;
     border-radius: 7%;
     box-shadow: 1px 1.5px 4px 0 black;
+    cursor: pointer;
+    object-fit: cover;
+    text-align: center;
+    font-size: 10vmin;
+    /* line-height: 15vmin; */
 
 }
 
